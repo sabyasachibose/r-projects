@@ -1,1 +1,1 @@
-# r-projects
+# Exercise files from the class
