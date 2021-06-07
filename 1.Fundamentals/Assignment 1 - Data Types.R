@@ -140,6 +140,13 @@ Day3 77
 Day4 34
 Day5 21
 "
+df
 df[c(1:5), c(1)]        # Not correct answer
-df[2]
+df[1]
 
+
+# Needs practice
+df[2]
+df[2,]
+df[,c(2:3)]
+df[,2]
