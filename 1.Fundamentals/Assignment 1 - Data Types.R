@@ -83,7 +83,7 @@ these values.
 ## [23] 'w4' 'x3' 'y2' 'z1'
 
 "
-paste0(tolower(letters[0:11]), c(26:16))
+paste0(letters, c(26:1))
 paste0(tolower(LETTERS[0:11]), c(26:16))
 
 "
